@@ -1,4 +1,7 @@
-### Hi there 👋
+### 
+Hey, I'm Aleksey 👋
+
+I am a software engineer with a passion for the Java ecosystem, Spring, REST APIs etc. Nowadays, I'm focused on launching a startup
 
 <!--
 **AlBrkn/AlBrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
